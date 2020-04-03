@@ -276,12 +276,17 @@ header {
     padding: 15px;
     color: #FAFAFA;
 }
+
 .process_video {
 	width: 56%;
     float: right;
     padding: 25px;
 }
-
+iframe {
+	width: 90%;
+	height: 250px;
+	border: none;
+}
 .features {
    
 }
