@@ -23,7 +23,9 @@ header {
 
 #videos {
 }
-
+.firstnav {
+	width: 100%;
+}
 .wrapper {
 	width: 60%;
 	overflow: hidden;
